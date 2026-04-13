@@ -1,0 +1,33 @@
+A Natural History of Dragons|Marie Brennan|0|Fantasy|-|Memoirs of Lady Trent
+Nineteen Eighty-Four|George Orwell|1|Dystopian|-|-
+Animal Farm|George Orwell|1|Dystopian|-|-
+The Hobbit|J.R.R. Tolkien|1|Fantasy|-|Middle Earth
+The Fellowship of the Ring|J.R.R. Tolkien|1|Fantasy|-|Middle Earth
+The Two Towers|J.R.R. Tolkien|1|Fantasy|-|Middle Earth
+The Return of the King|J.R.R. Tolkien|1|Fantasy|-|Middle Earth
+The Silmarillion|J.R.R. Tolkien|0|Fantasy|-|Middle Earth
+House of Leaves|Mark Z. Danielewski|0|Surrealist|-|-
+Inferno|Dante|1|Narrative Poetry|-|The Divine Comedy
+Purgatorio|Dante|1|Narrative Poetry|-|The Divine Comedy
+Paradiso|Dante|1|Narrative Poetry|-|The Divine Comedy
+The Infernal City|Greg Keyes|0|Fantasy|-|The Elder Scrolls
+Lord of Souls|Greg Keyes|0|Fantasy|-|The Elder Scrolls
+The Tropic of Serpents|Marie Brennan|0|Fantasy|-|Memoirs of Lady Trent
+In the Labyrinth of Drakes|Marie Brennan|0|Fantasy|-|Memoirs of Lady Trent
+Within Sanctuary of Wings|Marie Brennan|0|Fantasy|-|Memoirs of Lady Trent
+Voyage of the Basilisk|Marie Brennan|0|Fantasy|-|Memoirs of Lady Trent
+Turning Darkness into Light|Marie Brennan|0|Fantasy|-|Memoirs of Lady Trent
+Dune|Frank Herbert|0|Science-Fiction|-|Dune
+Master & Apprentice|Claudia Gray|0|Science-Fiction|-|Star Wars
+Darth Plagueis|James Luceno|0|Science-Fiction|-|Star Wars
+Revenge of the Sith|Matthew Stover|0|Science-Fiction|-|Star Wars
+Kenobi|John Jackson Miller|0|Science-Fiction|-|Star Wars
+Attack of the Clones|R. A. Salvatore|0|Science-Fiction|-|Star Wars
+The Arrival|Shaun Tan|0|Surrealist|-|-
+The Time Machine|H. G. Wells|1|Science-Fiction|-|-
+The House of the Scorpion|Nancy Farmer|0|Dystopian|-|House of the Scorpion
+The Lord of Opium|Nancy Farmer|0|Dystopian|-|House of the Scorpion
+The Adventures of Robin Hood|Roger Lancelyn Green|1|Historical-Fiction|-|-
+A Farewell to Arms|Ernst Hemingway|1|War|-|-
+Labyrinth of Evil|James Luceno|0|Science-Fiction|-|Star Wars
+Cloak of Deception|James Luceno|0|Science-Fiction|-|Star Wars
